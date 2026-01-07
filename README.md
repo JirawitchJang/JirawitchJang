@@ -2,7 +2,7 @@
 
 I'm Jirawitch Thiphatpanya, a Computer Engineering (CPE) student at Naresuan University.
 
-I am passionate about data engineering and software engineering, with a strong interest in exploring new challenges in big data and modern platforms. I continuously push myself to learn and improve, with good problem-solving skills and a strong growth mindset.
+I am passionate about data engineering and software engineering, with a strong interest in exploring new challenges in big data and modern platforms. I continually push myself to learn and improve, utilizing strong problem-solving skills, a growth mindset, and a focus on developing reliable data solutions.
 
 ## Technical Stack
 
