@@ -27,5 +27,5 @@ I am passionate about data engineering and software engineering, with a strong i
 
 ## Contact
 Email: jirawitch2546@gmail.com  
-Phone: +66 93-636-2556
+Phone: 093-636-2556
   
