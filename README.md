@@ -10,11 +10,12 @@ I am passionate about data engineering and software engineering, with a strong i
 **Currently Learning:** AWS
 
 **Experience**
-**RPA Developer Intern**  
--CH. Radiators Company Limited
 
-  - Designed RPA workflows to automate data processing and improve data utilization across the organization.
-  - Developed GUI applications for product data delivery and tracking within the factory.
+**RPA Developer Intern**  
+ - CH. Radiators Company Limited
+
+    - Designed RPA workflows to automate data processing and improve data utilization across the organization.
+    - Developed GUI applications for product data delivery and tracking within the factory.
 
 **Soft Skills**
 - Communication Skills : Clear communication with both technical and non-technical stakeholders.
