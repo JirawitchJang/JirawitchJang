@@ -1,4 +1,4 @@
-# jirawitch
+# JirawitchJang
 
 I'm Jirawitch Thiphatpanya, a Computer Engineering (CPE) student at Naresuan University.
 
