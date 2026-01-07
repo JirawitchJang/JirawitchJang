@@ -1,4 +1,4 @@
-# JirawitchJang
+# This is my profile
 
 I'm Jirawitch Thiphatpanya, a Computer Engineering (CPE) student at Naresuan University.
 
