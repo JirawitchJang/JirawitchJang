@@ -13,10 +13,11 @@ I am passionate about data engineering and software engineering, with a strong i
 ## Experience
 
 **RPA Developer Intern**  
- - CH. Radiators Company Limited
+ - CH.RADIATORS COMPANY LIMITED ( April 2025 -  June 2025 )
 
-    - Designed RPA workflows to automate data processing and improve data utilization across the organization.
-    - Developed GUI applications for product data delivery and tracking within the factory.
+    - Developed process workflows for GUI-based pallet warehouse purchasing systems according to business requirements.
+    - Creating workflow using WinActor to automate tasks such as data downloading, data transformation, and data preparation for use.
+    - Debugged and maintained workflows, including process data and customer data, to support the Purchasing Department.
 
 ## Soft Skills
 - Communication Skills : Clear communication with both technical and non-technical stakeholders.
@@ -28,4 +29,5 @@ I am passionate about data engineering and software engineering, with a strong i
 ## Contact
 Email: jirawitch2546@gmail.com  
 Phone: 093-636-2556
+LINKEDIN : www.linkedin.com/in/jirawitch-jang-0842a631a
   
