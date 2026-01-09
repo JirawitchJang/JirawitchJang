@@ -27,7 +27,7 @@ I am passionate about data engineering and software engineering, with a strong i
 - Self-Directed Learning : Continuously learns and improves technical skills.
 
 ## Contact
-- Email: jirawitch2546@gmail.com  
+- Email: jirawitchjc2003@gmail.com
 - Phone: 093-636-2556
 - LINKEDIN : www.linkedin.com/in/jirawitch-jang-0842a631a
   
